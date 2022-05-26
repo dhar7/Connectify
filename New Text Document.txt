@@ -1,0 +1,5 @@
+lec 26 : find people doesnt work
+lec 31 : line 193-203
+         a text is sent for twice
+lec 32 : php variable does not come to input field
+         
